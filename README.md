@@ -1,1 +1,2 @@
 # Supreme-Furniture-Shop
+This console application, developed for Supreme Furniture Shop, allows users to browse furniture items and enables management to handle inventory and sales, along with features like login and logout. Built using C++ and arrays for dynamic data storage, this basic-level project was created as part of the Fundamentals in Programming assignment, providing a strong foundation in programming concepts such as structured programming and modularization.

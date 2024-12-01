@@ -1,0 +1,7 @@
+﻿  FP-code.cpp
+D:\Mazeena\ICBT Assignments\Semester 1\FP\FP-code\FP-code\FP-code.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Mazeena\ICBT Assignments\Semester 1\FP\FP-code\FP-code\FP-code.cpp(380,13): warning C4551: function call missing argument list
+D:\Mazeena\ICBT Assignments\Semester 1\FP\FP-code\FP-code\FP-code.cpp(425,9): warning C4551: function call missing argument list
+D:\Mazeena\ICBT Assignments\Semester 1\FP\FP-code\FP-code\FP-code.cpp(497,13): warning C4551: function call missing argument list
+D:\Mazeena\ICBT Assignments\Semester 1\FP\FP-code\FP-code\FP-code.cpp(546,9): warning C4551: function call missing argument list
+  FP-code.vcxproj -> D:\Mazeena\ICBT Assignments\Semester 1\FP\FP-code\x64\Debug\FP-code.exe
